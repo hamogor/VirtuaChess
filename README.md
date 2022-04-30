@@ -16,3 +16,10 @@ v.0.01
 
 TOT, LVL, EXE, DMG, GRD implemented on 4 moves in a Goh mirror match
 websockets for console input so me and ezra can play together
+
+## To build and run
+`git clone https://hamogor/VirtuaChess.git`
+
+`go build .`
+
+`./VirtuaChess.exe`
